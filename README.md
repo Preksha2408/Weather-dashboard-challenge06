@@ -23,6 +23,8 @@ The Weather Forecast website allows users to search for weather information for 
 
 # Deployment 
 
-This application is deployed to GitHub Pages at:
+This application is deployed to GitHub Pages at:     https://preksha2408.github.io/Weather-dashboard-challenge06/
 
+
+Repository Link for the challenge : https://github.com/Preksha2408/Weather-dashboard-challenge06.git
 
